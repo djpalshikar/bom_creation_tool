@@ -1,4 +1,3 @@
---- this version is not valid ---- refer to the latest bom_creation_tool_vX
 
 Automatic item code working
 Follow this sequence to create automatic BOM
